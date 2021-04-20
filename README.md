@@ -1,5 +1,5 @@
 # COMP1640-Enterprise-Web-Software-Development-
-# Team Members:
+#  1. Team Members:
   . Tran Huynh Thanh Vy (Leader)
 
   . Trinh Hoang Thanh
@@ -10,12 +10,12 @@
 
   . Nguyen Anh Duy
 
-# How to run our project:
+# 2. How to run our project:
   . Step 1: Find FINAL_PROJECT zip.
 
   . Step 2: Follow steps in file README.txt in FINAL_PROJECT zip file.
 
-# Link Repo:
+# 3. Link Repo:
 Link Google Drive: https://drive.google.com/drive/u/1/folders/1ILNhWp8I_m4FtOIRiv5vkhkeQ9QMMcUH
 
 Link Heroku (Cloud deploy): https://enterpriseweb-development.herokuapp.com/
