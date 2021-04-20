@@ -1,6 +1,7 @@
 # COMP1640-Enterprise-Web-Software-Development-
 # Team Members:
   . Tran Huynh Thanh Vy (Leader)
+
   . Trinh Hoang Thanh
   . Pham Duc Long
   . Ho Bich Thuy
